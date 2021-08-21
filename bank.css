@@ -1,0 +1,9 @@
+button {
+    color: white;
+    background: #aba8f4;
+    border: solid 1px;
+}
+
+label {
+    font-size: 3em;
+}
